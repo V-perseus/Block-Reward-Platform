@@ -18,20 +18,8 @@ What are Block Reward NFTs and Block Reward Token?
     Block Reward Memberships are NFTs minted on the Algorand Blockchain. NFTs and blockchain are a unique way for businesses to protect the authenticity of membership and an easy way for businesses to track discounts redeemed by their customers
     Block Reward Token is earned on purchases made from a business within our ecosystem, think of BRT as a reward point. Our token is used to redeem discounts, limited-time offers and other promotional activities offered by businesses on our platform. Users can also use the token to upgrade their membership tier within the system. There may be ways to gain more BRT in the future through our platform.
     
-    
-
-https://user-images.githubusercontent.com/72927944/198504140-2397cd65-ef93-43f9-9c82-a830500b5186.mp4
-
-
-
 https://user-images.githubusercontent.com/72927944/198504148-12905869-e1d5-4df9-9433-0c6c7e5d1eb7.mp4
-
-
-
-https://user-images.githubusercontent.com/72927944/198504151-6bca1a83-2490-4070-ba81-9b85479233b6.mp4
-
-
-    
+   
 Block Reward Application
 
     Block Reward is the platform where BRT is redeemed and used. Businesses will have their own page offering promotional content along with discount offers. When a user owns a business’ NFT, then that particular business’ page can be accessed to redeem their Block Reward Tokens for promotions or discounts. Owning just 1 NFT within the Block Reward ecosystem gives you access to certain discounts in other businesses but full rewards will be reserved for the holders of the business’ NFT. This system allows interoperability between businesses that previously was impossible. As Block Reward grows, we plan to expand this ecosystem. Stay Tuned!
@@ -56,6 +44,9 @@ Algorand wallet system
 
 https://user-images.githubusercontent.com/72927944/198574530-37ab27c1-309b-4552-81a4-4f396f5aa60f.mp4
 
+Buying memebership
+
+https://user-images.githubusercontent.com/72927944/198579341-89d31de1-9839-4fb3-a025-4e918b38fff1.mp4
 
 
 
