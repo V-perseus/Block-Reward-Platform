@@ -1,0 +1,50 @@
+import React from 'react'
+import { useInfoShare } from '../../../contexts/InfoShareContext'
+import { useWindowSize } from '../../../hooks/useWindowSize'
+import { Button } from '../../../styles'
+import BsBoxArrowInRight from '@meronex/icons/bs/BsBoxArrowInRight'
+import BsBoxArrowInLeft from '@meronex/icons/bs/BsBoxArrowInLeft'
+import {
+  Container,
+  ToolBar,
+  Heading,
+  ButtonWrapper,
+  ExtraContent
+} from './styles'
+
+export const DashboardHeading = (props) => {
+  const {
+    title,
+    children
+  } = props
+
+  const [{ isCollapse }, { handleMenuCollapse }] = useInfoShare()
+  const { width } = useWindowSize()
+
+  return (
+    <Container>
+      {width < 769 && (
+        <ButtonWrapper>
+          <Button color='primary' naked onClick={() => handleMenuCollapse(!isCollapse)}>
+            {isCollapse ? <BsBoxArrowInLeft /> : <BsBoxArrowInRight />}
+            <span>Menu</span>
+          </Button>
+        </ButtonWrapper>
+      )}
+      <ToolBar>
+        <Heading>
+          {width < 1200 && width > 768 && (
+            <Button color='primary' naked onClick={() => handleMenuCollapse(!isCollapse)}>
+              {isCollapse ? <BsBoxArrowInLeft /> : <BsBoxArrowInRight />}
+              <span>Menu</span>
+            </Button>
+          )}
+          <h2>{title}</h2>
+        </Heading>
+        <ExtraContent>
+          {children}
+        </ExtraContent>
+      </ToolBar>
+    </Container>
+  )
+}
