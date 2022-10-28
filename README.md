@@ -4,6 +4,9 @@ Using React.js, Node.js, Web3.js, PyTeal, Algorand SDK, MongoDB.
 
  [BlockReward System.pptx](https://github.com/V-perseus/Block-Reward-Platform/files/9885189/BlockReward.System.pptx) - The details of Logic Flow
 
+![block_reward_color_logo](https://user-images.githubusercontent.com/72927944/198503988-452f7766-a836-4292-be11-1e7a83f33de2.png)
+
+
 What is Block Reward?
 
     Block Reward is taking advantage of the paradigm shift from physical to digital and will disrupt the reward systems industry by using NFTs and tokenized rewards. NFTs hosted on the Algorand blockchain allow Block Reward to create new members quickly through instant minting, verify membership in a secure fashion and give shoppers direct ownership of the rewards they earn.
