@@ -22,10 +22,6 @@ https://user-images.githubusercontent.com/72927944/198504148-12905869-e1d5-4df9-
    
 Block Reward Application
 
-    Block Reward is the platform where BRT is redeemed and used. Businesses will have their own page offering promotional content along with discount offers. When a user owns a business’ NFT, then that particular business’ page can be accessed to redeem their Block Reward Tokens for promotions or discounts. Owning just 1 NFT within the Block Reward ecosystem gives you access to certain discounts in other businesses but full rewards will be reserved for the holders of the business’ NFT. This system allows interoperability between businesses that previously was impossible. As Block Reward grows, we plan to expand this ecosystem. Stay Tuned!
-
-How does it work?
-
     Businesses have a dedicated page where their members can view and redeem discounts and other promotions.  Once you have selected the page you will be allowed to see what offers apply to your membership. The Block Reward Membership unlocks special discounts offered by all businesses in our ecosystem, but full rewards and perks are reserved for full members. Once you are in the businesses dedicated discount page you will be able to select the discount you want to redeem. After selecting the discount you want to redeem you will be asked to deposit BRT and swipe to complete the discount redemption.
 
 Transfer BRT
