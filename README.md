@@ -26,7 +26,7 @@ Block Reward Application
 
 Transfer BRT
 
-https://user-images.githubusercontent.com/72927944/198575073-5dc8c7fb-91d2-4a91-9a2d-f3015fb6422c.mp4
+https://user-images.githubusercontent.com/72927944/198580623-f1f5c691-348a-4308-a67e-669cbd8d8268.mp4
 
 Discount
 
