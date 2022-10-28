@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/72927944/198580623-f1f5c691-348a-4308-
 
 Discount
 
-https://user-images.githubusercontent.com/72927944/198572721-7e840698-0245-4e62-badc-4c39a8442d41.mp4
+https://user-images.githubusercontent.com/72927944/198580848-5d3f2ff3-90f0-4693-b457-af975ba7648c.mp4
 
 Arc 19 mint and upgrade NFTs
 
