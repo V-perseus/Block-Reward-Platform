@@ -2,7 +2,8 @@
 
 Using React.js, Node.js, Web3.js, PyTeal, Algorand SDK, MongoDB.
 
- [BlockReward System.pptx](https://github.com/V-perseus/Block-Reward-Platform/files/9885189/BlockReward.System.pptx) - The details of Logic Flow
+ [BlockReward.System.pptx](https://github.com/V-perseus/Block-Reward-Platform/files/9887809/BlockReward.System.pptx)
+ - The details of Logic Flow
 
 ![block_reward_color_logo](https://user-images.githubusercontent.com/72927944/198503988-452f7766-a836-4292-be11-1e7a83f33de2.png)
 
@@ -38,9 +39,20 @@ Transfer BRT
 
 https://user-images.githubusercontent.com/72927944/198507457-aed849a9-c057-443c-8b2f-7b1d8ae62b0f.mp4
 
+
 Discount
 
-https://user-images.githubusercontent.com/72927944/198507526-348ac02f-a742-4efc-80c8-28aa2c2150ba.mp4
+https://user-images.githubusercontent.com/72927944/198572721-7e840698-0245-4e62-badc-4c39a8442d41.mp4
+
+Arc 19 mint and upgrade NFTs
+
+https://user-images.githubusercontent.com/72927944/198573420-31c1594e-2bd8-4e58-a02e-35e17b3753a5.mp4
+
+Algorand wallet system
+
+https://user-images.githubusercontent.com/72927944/198574530-37ab27c1-309b-4552-81a4-4f396f5aa60f.mp4
+
+
 
 
 
