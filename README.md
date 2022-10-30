@@ -5,6 +5,8 @@ Using React.js, Node.js, Web3.js, PyTeal, Algorand SDK, MongoDB.
 The details of Logic Flow ------
  [BlockReward.System.pptx](https://github.com/V-perseus/Block-Reward-Platform/files/9887809/BlockReward.System.pptx)
 
+Block Reward is a membership and loyalty system for brick and morter and online retailers. Block Reward Token is earned on purchases and is then used to redeem discounts offered by businesses in our ecosystem.
+
 ![block_reward_color_logo](https://user-images.githubusercontent.com/72927944/198503988-452f7766-a836-4292-be11-1e7a83f33de2.png)
 
 
