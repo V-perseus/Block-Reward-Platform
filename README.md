@@ -46,6 +46,10 @@ Buying memebership
 
 https://user-images.githubusercontent.com/72927944/198579341-89d31de1-9839-4fb3-a025-4e918b38fff1.mp4
 
+Buy and upgrade membership with algo or usdc
+
+https://user-images.githubusercontent.com/72927944/199246749-c36fd5e6-9eb0-4605-8aa7-4e7822f20bea.mp4
+
 
 
 
